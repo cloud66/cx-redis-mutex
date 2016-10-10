@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/cloud66/cxthreading",
+	"GoVersion": "go1.7.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloud66/cxlogger",
+			"Rev": "0062e3b78d6094a3dec361741674870ede3b2cb4"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Rev": "61e2910408efd40dafb3c7d856a4cf8aeb5fb1c6"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "61e2910408efd40dafb3c7d856a4cf8aeb5fb1c6"
+		}
+	]
+}
